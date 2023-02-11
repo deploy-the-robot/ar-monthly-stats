@@ -27,7 +27,7 @@
         <div>
         
           <div class="ar-edm-mock__tile bg-white"> 
-            <img src="src/assets/header.png" alt="" class="ar-edm-header">
+            <img src="/src/assets/header.png" alt="" class="ar-edm-header">
             <div class="ar-edm-mock__tile-content bg-white" id="js-html-to-png-padded">
               <ul class="ar-stats-list bg-white" id="js-html-to-png">
               <ArStatsListItem
